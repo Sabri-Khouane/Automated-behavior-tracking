@@ -31,5 +31,5 @@ Le traitement est structuré en trois étapes clés :
 ### Aperçu des résultats
 <p align="center">
   <img src="images/heatmap.png" width="300">
-  <img src="images/velocity in time.png" width ="600">
+  <img src="images/velocity in time.png" width ="450">
 </p>
