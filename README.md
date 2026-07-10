@@ -12,7 +12,7 @@ Ce travail démontre une capacité à traiter des données biomédicales complex
 * **Méthodologie :** Analyse de séries temporelles, filtrage de signaux, clustering comportemental.
 
 ##  Pipeline d'Analyse
-Le traitement est structuré en trois étapes clés :
+Le traitement est structuré en trois étapes clés : 
 1. **Extraction (DeepLabCut) :** Tracking des coordonnées (X, Y) des points d'intérêt (museau, dos, queue).
 2. **Nettoyage & Feature Engineering :** Application de filtres de vraisemblance, lissage des trajectoires et calcul de métriques cinématiques (vitesse, orientation, étirement corporel).
 3. **Modélisation :** Analyse de l'occupation spatiale (Heatmaps) et projection vectorielle pour identifier la direction de l'attention du sujet.
