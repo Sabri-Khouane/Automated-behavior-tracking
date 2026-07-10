@@ -28,3 +28,9 @@ Le traitement est structuré en trois étapes clés :
 3. Placez vos fichiers `.csv` (issus de DeepLabCut) dans le dossier `/data`.
 4. Ouvrez le notebook `Pipeline_Analyse_Comportementale.ipynb` dans Jupyter.
 
+## Aperçu des résultats
+<p align="center">
+  <img src="images/heatmap.png" width="300">
+  <img src="images/velocity in time.png" width ="450">
+</p>
+
