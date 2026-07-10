@@ -27,3 +27,9 @@ Le traitement est structuré en trois étapes clés :
 2. Installez les dépendances : `pip install pandas numpy matplotlib seaborn`
 3. Placez vos fichiers `.csv` (issus de DeepLabCut) dans le dossier `/data`.
 4. Ouvrez le notebook `Pipeline_Analyse_Comportementale.ipynb` dans Jupyter.
+
+### Aperçu des résultats
+![Heatmap d'occupation](images/heatmap.png)
+<p align="center">
+  <img src="images/heatmap.png" width="600">
+</p>
