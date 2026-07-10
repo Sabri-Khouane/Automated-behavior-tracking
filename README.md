@@ -29,7 +29,6 @@ Le traitement est structuré en trois étapes clés :
 4. Ouvrez le notebook `Pipeline_Analyse_Comportementale.ipynb` dans Jupyter.
 
 ### Aperçu des résultats
-![Heatmap d'occupation](images/heatmap.png)
 <p align="center">
   <img src="images/heatmap.png" width="600">
 </p>
